@@ -3,4 +3,6 @@
     <string name="option_new">New</string>
     <string name="open">Open</string>
     <string name="save">Save</string>
+    <string name="drawable_button">drawable button</string>
+    <string name="ring_button">ring button</string>
 </resources>
